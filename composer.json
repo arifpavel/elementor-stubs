@@ -1,0 +1,22 @@
+{
+    "name": "arifpavel/elementor-stubs",
+    "description": "Elementor function, class, and global variable declaration stubs for easier static analysis.",
+    "homepage": "https://github.com/arifpavel/elementor-stubs",
+    "keywords": [
+        "elementor",
+        "static analysis"
+    ],
+    "require-dev": {
+        "php": "^7.1",
+        "ext-gettext": "*",
+        "giacocorsiglia/stubs-generator": "^0.5.0"
+    },
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Arif Pavel",
+            "email": "pavelpatiya@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
